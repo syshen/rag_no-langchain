@@ -3,3 +3,4 @@ pinecone[grpc]==5.4.1
 tiktoken==0.8.0
 python-dotenv==1.0.0
 tqdm==4.66.1
+PyPDF2==3.0.1
